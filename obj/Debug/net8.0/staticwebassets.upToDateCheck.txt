@@ -1,0 +1,3 @@
+wwwroot\game.js
+wwwroot\GameStyle.css
+wwwroot\index.html
